@@ -1,0 +1,12 @@
+http://www.humus.name/index.php?page=Textures&ID=129
+
+Размыл в программе AMD CubeMapGen
+Filter Type: Gaussian
+Base Filter Angle: 11.00
+
+c00 = +x
+c01 = -x
+c02 = +y
+c03 = -y
+c04 = +z
+c05 = -z

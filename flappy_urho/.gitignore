@@ -1,0 +1,7 @@
+# Формат файла: https://git-scm.com/docs/gitignore
+
+# Папки, которые не будут отправляться в репозиторий
+/build_vs/
+
+# Игнорируемые файлы
+/result/Urho3D.log
