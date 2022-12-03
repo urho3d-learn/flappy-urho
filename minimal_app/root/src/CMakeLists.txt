@@ -13,5 +13,5 @@ define_resource_dirs (GLOB_PATTERNS ${CMAKE_SOURCE_DIR}/../../engine/repo/bin/*D
 setup_main_executable ()
 
 # В Visual Studio таргет minimal_app будет назначен стартовым вместо ALL_BUILD,
-# чтобы не делать это вручную при отладке игры
+# чтобы потом не делать это вручную при отладке игры
 set_property(DIRECTORY ${CMAKE_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT ${TARGET_NAME})
