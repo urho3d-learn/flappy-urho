@@ -140,6 +140,6 @@ class UILogic : public LogicComponent
 * Правая кнопка мыши - вернуть камеру на место
 * Пробел - показать/спрятать отладочную геометрию
 
-*Старая версия игры: <https://github.com/1vanK/FlappyUrho>.*<br>
-*Старые версии остальных двух приложений: <https://github.com/1vanK/Urho3DHabrahabr04>.*
+---
 
+*Старые версии приложений: <https://github.com/1vanK/FlappyUrho>, <https://github.com/1vanK/Urho3DHabrahabr04>.*
